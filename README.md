@@ -1,4 +1,4 @@
-# ScrollToTop
+# Scroll to Top
 
 Add a scroll-to-top button to your web page
 
